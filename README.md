@@ -1,6 +1,6 @@
 # ⚔️ Grindstone
 
-### sharpen your competitive edge.
+### Sharpen your competitive edge.
 
 A full-stack competitive programming tracker built for serious grinders. Log problems, track your daily practice with a GitHub-style heatmap, schedule revisions with spaced repetition, and monitor your contest rating over time.
 
